@@ -143,4 +143,11 @@ margin: auto;
     .search-box div{
         gap: 5px;
     }
+    .main .greet{
+        font-size: 25px;
+        font-weight: 300;
+    }
+    .main .bottom-info{
+        font-size: 10px;
+    }
 }
